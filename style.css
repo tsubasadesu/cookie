@@ -21,7 +21,7 @@ html body header {
 html body header .header-img {
   width: 100%;
   height: 1077px;
-  background-image: url(../images/cookie_main.jpg);
+  background-image: url(https://github.com/tsubasadesu/porter/blob/main/cookie_main.jpg?raw=true);
   background-size: cover;
   background-position: center center;
   text-align: center;
@@ -58,7 +58,7 @@ html body header .header-img .header-txt h1 {
 }
 
 html body .info {
-  background-image: url(../images/cookie_buck.jpg);
+   background-image: url(https://github.com/tsubasadesu/porter/blob/main/cookie_buck.jpg?raw=true);
   background-size: cover;
   background-position: center center;
   height: 577px;
